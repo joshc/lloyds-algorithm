@@ -2,7 +2,7 @@
 
 This is an implementation of Lloyd's algorithm (also commonly known as K-means clustering) in MATLAB, run on a fabricated data set of points randomly chosen from the uniform data set X = [-1, 1] x [-1, 1]. Cluster centers are initialized at random from the fabricated data set. It includes parameters to choose K (number of clusters) and N (number of data points), and a depiction of Lloyd's algorithm. Please refer to the program files for more information.
 
-Instructions to run:
+## Instructions to run:
 
 1. Download all of the files here into a directory in the MATLAB path.
 2. Run 'lloyds_anim.m' in MATLAB.
