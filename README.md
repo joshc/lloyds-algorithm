@@ -10,6 +10,8 @@ This is an implementation of Lloyd's algorithm (also commonly known as K-means c
 
 ### Example of a result generated using this program (K = 9, N = 100):
 
+The red asterisks denote cluster centers, and the dotted lines represent lines from each point in a cluster to that cluster's center.
+
 ![Image of Lloyd's Algorithm](http://i.imgur.com/EHjCjkB.gif)
 
 ### Additional resources:
