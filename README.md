@@ -8,15 +8,15 @@ This is an implementation of Lloyd's algorithm (also commonly known as K-means c
 2. Run 'lloyds_anim.m' in MATLAB.
 3. Input chosen values for K and N (default values provided).
 
-### An example of a result generated using this program (K = 9, N = 100):
+## Examples of results generated using this program:
 
-The red asterisks denote cluster centers, and the dotted lines represent lines from each point in a cluster to that cluster's center.
+Varying levels of K and N as allowed by the program, we examine the convergence of Lloyd's algorithm to K cluster centers. The red asterisks denote cluster centers, and the dotted lines represent lines from each point in a cluster to that cluster's center.
+
+### For K = 9, N = 100:
 
 ![Image of Lloyd's Algorithm](http://i.imgur.com/O6HlMN2.gif)
 
-### Another example of a result generated using this problem (K = 27, N = 300):
-
-The red asterisks denote cluster centers, and the dotted lines represent lines from each point in a cluster to that cluster's center.
+### For K = 27, N = 300:
 
 ![Image of Lloyd's Algorithm](http://i.imgur.com/ocZjdFS.gif)
 
