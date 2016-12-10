@@ -10,7 +10,7 @@ This is an implementation of Lloyd's algorithm (also commonly known as K-means c
 
 ## Examples of results generated using this program:
 
-Varying levels of K and N as allowed by the program, we examine the convergence of Lloyd's algorithm to K cluster centers. The red asterisks denote cluster centers, and the dotted lines represent lines from each point in a cluster to that cluster's center. A point of interest to note is the rapid convergence of Lloyd's algorithm. Convergence is guaranteed, but here it occurs within 2 iterations -- quite efficient indeed!
+Varying levels of K and N as allowed by the program, we examine the convergence of Lloyd's algorithm to K cluster centers. The red asterisks denote cluster centers, and the dotted lines represent lines from each point in a cluster to that cluster's center. A point of interest to note is the rapid convergence of Lloyd's algorithm. Convergence is guaranteed, but here it occurs within 2 iterations -- quite rapid indeed!
 
 ### For K = 9, N = 100:
 
